@@ -1,0 +1,19 @@
+{
+  "name": "100mslive-with-react",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "ArchyScript",
+    "email": "yungdansa@gmail.com"
+  },
+  "repository": "https://github.com/ArchyScript/100ms-react.git/100mslive-with-react",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
